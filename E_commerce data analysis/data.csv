@@ -1,0 +1,9 @@
+order_id,customer,product,quantity,price,month
+1,A,Laptop,1,50000,Jan
+2,B,Phone,2,15000,Jan
+3,A,Tablet,1,20000,Feb
+4,C,Laptop,1,50000,Feb
+5,B,Phone,3,15000,Mar
+6,D,Tablet,2,20000,Mar
+7,A,Phone,1,15000,Apr
+8,C,Laptop,2,50000,Apr

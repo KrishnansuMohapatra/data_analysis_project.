@@ -1,0 +1,9 @@
+,customer_id,name,city,product,amount
+0,1,Rahul,Delhi,Laptop,50000
+1,2,Priya,Mumbai,Phone,30000
+2,3,Arjun,Delhi,Tablet,20000
+3,1,Rahul,Delhi,Phone,15000
+4,2,Priya,Mumbai,Laptop,40000
+5,4,Neha,Pune,Tablet,25000
+6,5,Amit,Mumbai,Phone,35000
+7,3,Arjun,Delhi,Laptop,30000
